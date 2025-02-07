@@ -88,8 +88,8 @@ const ARDisplay = () => {
         <a-video
           src="#videoElement"
           position="0 0 0"
-          width="50"
-          height="50"
+          width="10"
+          height="6"
           rotation="0 0 0"
         ></a-video>
       </a-entity>
